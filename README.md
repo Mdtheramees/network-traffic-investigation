@@ -48,7 +48,15 @@ To analyze network traffic captured from an authorized environment and document 
 
 ### protocol-hierarchy
 
-(protocol-hierarchy.png)
+![protocol-hierarchy](protocol-hierarchy.png)
+
+### Conversation Analysis
+
+![Conversation Analysis](conversation.png)
+
+### TCP investigation analysis
+
+
 
 ## Investigation Report
 
